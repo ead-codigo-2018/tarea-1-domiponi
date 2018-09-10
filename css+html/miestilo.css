@@ -1,0 +1,37 @@
+
+<head>
+  <style>
+
+
+  h1{
+    color:#FF4500
+    font-family: 'Quicksand', Regular,sans-serif;
+  }
+  h2{
+    color: #D2691E
+    font-family: 'Quicksand', Regular,sans-serif;
+  }
+  h3{
+    color: #FF6347;
+    font-family: 'Montserrat',Light,sans-serif;
+}
+
+ul{
+  color: #696969;
+  font-family: 'Quicksand', Light,sans-serif;
+}
+
+ p{
+    	color: #696969;
+  font-family: 'Quicksand', Light,sans-serif;
+
+
+
+}
+body {
+
+background-color: #F5F5F5;
+}
+
+</style>
+</head>
